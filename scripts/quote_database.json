@@ -1,0 +1,562 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "total_quotes": 84,
+    "organized_by": "philosopher",
+    "usage_tracking": "Each quote has a 'used' field. Set to date string after use."
+  },
+  "marcus_aurelius": [
+    {
+      "id": "MA01",
+      "quote": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+      "source": "Meditations",
+      "theme": ["resilience", "mindset", "control"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA02",
+      "quote": "The happiness of your life depends upon the quality of your thoughts.",
+      "source": "Meditations",
+      "theme": ["happiness", "mindset", "thoughts"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA03",
+      "quote": "Waste no more time arguing about what a good man should be. Be one.",
+      "source": "Meditations",
+      "theme": ["action", "virtue", "discipline"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "MA04",
+      "quote": "The best revenge is to be unlike him who performed the injury.",
+      "source": "Meditations",
+      "theme": ["revenge", "character", "resilience"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "MA05",
+      "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "source": "Meditations",
+      "theme": ["happiness", "simplicity", "mindset"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA06",
+      "quote": "When you arise in the morning, think of what a precious privilege it is to be alive.",
+      "source": "Meditations",
+      "theme": ["gratitude", "morning", "perspective"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA07",
+      "quote": "The soul becomes dyed with the colour of its thoughts.",
+      "source": "Meditations",
+      "theme": ["thoughts", "character", "mindset"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA08",
+      "quote": "It is not death that a man should fear, but he should fear never beginning to live.",
+      "source": "Meditations",
+      "theme": ["death", "courage", "living"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "MA09",
+      "quote": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "source": "Meditations",
+      "theme": ["acceptance", "love", "fate"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA10",
+      "quote": "The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.",
+      "source": "Meditations",
+      "theme": ["independence", "thinking", "society"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "MA11",
+      "quote": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+      "source": "Meditations",
+      "theme": ["perspective", "truth", "judgment"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA12",
+      "quote": "Never esteem anything as of advantage to you that will make you break your word or lose your self-respect.",
+      "source": "Meditations",
+      "theme": ["integrity", "honor", "character"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "MA13",
+      "quote": "How much time he gains who does not look to see what his neighbor says or does or thinks.",
+      "source": "Meditations",
+      "theme": ["focus", "comparison", "discipline"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA14",
+      "quote": "The impediment to action advances action. What stands in the way becomes the way.",
+      "source": "Meditations",
+      "theme": ["obstacles", "perseverance", "growth"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "MA15",
+      "quote": "Look back over the past, with its changing empires that rose and fell, and you can foresee the future too.",
+      "source": "Meditations",
+      "theme": ["history", "perspective", "impermanence"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "MA16",
+      "quote": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "source": "Meditations",
+      "theme": ["beauty", "wonder", "perspective"],
+      "energy": "calm",
+      "used": null
+    }
+  ],
+  "seneca": [
+    {
+      "id": "SN01",
+      "quote": "We suffer more often in imagination than in reality.",
+      "source": "Letters to Lucilius",
+      "theme": ["anxiety", "imagination", "suffering"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "SN02",
+      "quote": "It is not that we have a short time to live, but that we waste a great deal of it.",
+      "source": "On the Shortness of Life",
+      "theme": ["time", "urgency", "discipline"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "SN03",
+      "quote": "Luck is what happens when preparation meets opportunity.",
+      "source": "Letters to Lucilius",
+      "theme": ["preparation", "opportunity", "work"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "SN04",
+      "quote": "Difficulties strengthen the mind, as labor does the body.",
+      "source": "Moral Letters",
+      "theme": ["hardship", "growth", "strength"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "SN05",
+      "quote": "True happiness is to enjoy the present, without anxious dependence upon the future.",
+      "source": "Letters to Lucilius",
+      "theme": ["happiness", "present", "anxiety"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "SN06",
+      "quote": "He who is brave is free.",
+      "source": "Letters to Lucilius",
+      "theme": ["courage", "freedom", "bravery"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "SN07",
+      "quote": "Begin at once to live, and count each separate day as a separate life.",
+      "source": "Moral Letters",
+      "theme": ["urgency", "living", "present"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "SN08",
+      "quote": "A gem cannot be polished without friction, nor a man perfected without trials.",
+      "source": "Moral Letters",
+      "theme": ["adversity", "growth", "perseverance"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "SN09",
+      "quote": "No person has the power to have everything they want, but it is in their power not to want what they don't have.",
+      "source": "Letters to Lucilius",
+      "theme": ["desire", "contentment", "control"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "SN10",
+      "quote": "As is a tale, so is life: not how long it is, but how good it is, is what matters.",
+      "source": "Letters to Lucilius",
+      "theme": ["life", "quality", "meaning"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "SN11",
+      "quote": "Hang on to your youthful enthusiasms -- you'll be able to use them better when you're older.",
+      "source": "Letters to Lucilius",
+      "theme": ["aging", "enthusiasm", "growth"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "SN12",
+      "quote": "Sometimes even to live is an act of courage.",
+      "source": "Letters to Lucilius",
+      "theme": ["courage", "suffering", "resilience"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "SN13",
+      "quote": "Wealth consists not in having great possessions, but in having few wants.",
+      "source": "Letters to Lucilius",
+      "theme": ["wealth", "simplicity", "contentment"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "SN14",
+      "quote": "If a man knows not to which port he sails, no wind is favorable.",
+      "source": "Letters to Lucilius",
+      "theme": ["purpose", "direction", "goals"],
+      "energy": "intense",
+      "used": null
+    }
+  ],
+  "epictetus": [
+    {
+      "id": "EP01",
+      "quote": "It's not what happens to you, but how you react to it that matters.",
+      "source": "Discourses",
+      "theme": ["reaction", "control", "mindset"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "EP02",
+      "quote": "Man is not worried by real problems so much as by his imagined anxieties about real problems.",
+      "source": "Enchiridion",
+      "theme": ["anxiety", "perception", "worry"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "EP03",
+      "quote": "First say to yourself what you would be; and then do what you have to do.",
+      "source": "Discourses",
+      "theme": ["action", "identity", "discipline"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "EP04",
+      "quote": "No man is free who is not master of himself.",
+      "source": "Discourses",
+      "theme": ["freedom", "discipline", "self-control"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "EP05",
+      "quote": "Wealth consists not in having great possessions, but in having few wants.",
+      "source": "Discourses",
+      "theme": ["wealth", "desire", "simplicity"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "EP06",
+      "quote": "Only the educated are free.",
+      "source": "Discourses",
+      "theme": ["education", "freedom", "knowledge"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "EP07",
+      "quote": "He is a drunkard who takes more than three glasses, though he be not drunk.",
+      "source": "Discourses",
+      "theme": ["moderation", "discipline", "excess"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "EP08",
+      "quote": "If you want to improve, be content to be thought foolish and stupid.",
+      "source": "Enchiridion",
+      "theme": ["growth", "humility", "courage"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "EP09",
+      "quote": "Don't explain your philosophy. Embody it.",
+      "source": "Discourses",
+      "theme": ["action", "authenticity", "virtue"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "EP10",
+      "quote": "Caretake this moment. Immerse yourself in its particulars.",
+      "source": "Discourses",
+      "theme": ["mindfulness", "present", "attention"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "EP11",
+      "quote": "Other people's views and troubles can be contagious. Don't sabotage yourself by unwittingly adopting negative, unproductive attitudes.",
+      "source": "Enchiridion",
+      "theme": ["boundaries", "negativity", "influence"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "EP12",
+      "quote": "Make the best use of what is in your power, and take the rest as it happens.",
+      "source": "Discourses",
+      "theme": ["control", "acceptance", "action"],
+      "energy": "calm",
+      "used": null
+    }
+  ],
+  "broader_philosophy": [
+    {
+      "id": "BP01",
+      "quote": "Knowing yourself is the beginning of all wisdom.",
+      "source": "Aristotle",
+      "theme": ["self-knowledge", "wisdom", "awareness"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "BP02",
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "source": "Socrates",
+      "theme": ["humility", "wisdom", "learning"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "BP03",
+      "quote": "He who conquers himself is the mightiest warrior.",
+      "source": "Confucius",
+      "theme": ["self-mastery", "discipline", "strength"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "BP04",
+      "quote": "The mind is everything. What you think you become.",
+      "source": "Buddha",
+      "theme": ["mindset", "thoughts", "transformation"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "BP05",
+      "quote": "In the middle of difficulty lies opportunity.",
+      "source": "Albert Einstein",
+      "theme": ["adversity", "opportunity", "perspective"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "BP06",
+      "quote": "The unexamined life is not worth living.",
+      "source": "Socrates",
+      "theme": ["reflection", "purpose", "meaning"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "BP07",
+      "quote": "When you realize nothing is lacking, the whole world belongs to you.",
+      "source": "Lao Tzu",
+      "theme": ["contentment", "abundance", "perspective"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "BP08",
+      "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+      "source": "Bruce Lee",
+      "theme": ["strength", "adversity", "resilience"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "BP09",
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "source": "Nelson Mandela",
+      "theme": ["resilience", "perseverance", "glory"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "BP10",
+      "quote": "He who has a why to live can bear almost any how.",
+      "source": "Friedrich Nietzsche",
+      "theme": ["purpose", "suffering", "meaning"],
+      "energy": "intense",
+      "used": null
+    },
+    {
+      "id": "BP11",
+      "quote": "Peace comes from within. Do not seek it without.",
+      "source": "Buddha",
+      "theme": ["peace", "inner-work", "mindfulness"],
+      "energy": "calm",
+      "used": null
+    },
+    {
+      "id": "BP12",
+      "quote": "A journey of a thousand miles begins with a single step.",
+      "source": "Lao Tzu",
+      "theme": ["beginning", "action", "perseverance"],
+      "energy": "calm",
+      "used": null
+    }
+  ],
+  "modern_applications": [
+    {
+      "id": "APP01",
+      "topic": "Dealing with social media comparison",
+      "stoic_framework": "Marcus Aurelius on not caring what others think",
+      "quote_id": "MA13",
+      "theme": ["comparison", "social-media", "focus"],
+      "used": null
+    },
+    {
+      "id": "APP02",
+      "topic": "Handling rejection in dating",
+      "stoic_framework": "Epictetus on what we can and cannot control",
+      "quote_id": "EP01",
+      "theme": ["rejection", "relationships", "control"],
+      "used": null
+    },
+    {
+      "id": "APP03",
+      "topic": "Overcoming job loss or career failure",
+      "stoic_framework": "Marcus Aurelius on obstacles becoming the way",
+      "quote_id": "MA14",
+      "theme": ["career", "failure", "obstacles"],
+      "used": null
+    },
+    {
+      "id": "APP04",
+      "topic": "Dealing with toxic people",
+      "stoic_framework": "Epictetus on not letting others control your emotions",
+      "quote_id": "EP11",
+      "theme": ["boundaries", "relationships", "emotional-control"],
+      "used": null
+    },
+    {
+      "id": "APP05",
+      "topic": "Overcoming anxiety about the future",
+      "stoic_framework": "Seneca on suffering more in imagination",
+      "quote_id": "SN01",
+      "theme": ["anxiety", "future", "imagination"],
+      "used": null
+    },
+    {
+      "id": "APP06",
+      "topic": "Finding motivation when depressed",
+      "stoic_framework": "Seneca on living each day as a separate life",
+      "quote_id": "SN07",
+      "theme": ["depression", "motivation", "living"],
+      "used": null
+    },
+    {
+      "id": "APP07",
+      "topic": "Dealing with money problems",
+      "stoic_framework": "Seneca on wealth being about wanting less",
+      "quote_id": "SN13",
+      "theme": ["money", "contentment", "simplicity"],
+      "used": null
+    },
+    {
+      "id": "APP08",
+      "topic": "Handling anger and frustration",
+      "stoic_framework": "Marcus Aurelius on the best revenge",
+      "quote_id": "MA04",
+      "theme": ["anger", "revenge", "character"],
+      "used": null
+    },
+    {
+      "id": "APP09",
+      "topic": "Fear of death and mortality",
+      "stoic_framework": "Marcus Aurelius on fearing not death but never living",
+      "quote_id": "MA08",
+      "theme": ["death", "fear", "living"],
+      "used": null
+    },
+    {
+      "id": "APP10",
+      "topic": "Procrastination and wasting time",
+      "stoic_framework": "Seneca on the shortness of life",
+      "quote_id": "SN02",
+      "theme": ["procrastination", "time", "urgency"],
+      "used": null
+    },
+    {
+      "id": "APP11",
+      "topic": "Feeling lost without purpose",
+      "stoic_framework": "Seneca on knowing which port you sail to",
+      "quote_id": "SN14",
+      "theme": ["purpose", "direction", "meaning"],
+      "used": null
+    },
+    {
+      "id": "APP12",
+      "topic": "Wanting to change but not knowing how",
+      "stoic_framework": "Epictetus on saying what you would be, then doing it",
+      "quote_id": "EP03",
+      "theme": ["change", "action", "identity"],
+      "used": null
+    },
+    {
+      "id": "APP13",
+      "topic": "Caring too much about others' opinions",
+      "stoic_framework": "Marcus Aurelius on escaping the ranks of the insane",
+      "quote_id": "MA10",
+      "theme": ["opinions", "independence", "thinking"],
+      "used": null
+    },
+    {
+      "id": "APP14",
+      "topic": "Feeling overwhelmed by life",
+      "stoic_framework": "Epictetus on making the best use of what is in your power",
+      "quote_id": "EP12",
+      "theme": ["overwhelm", "control", "simplicity"],
+      "used": null
+    }
+  ]
+}

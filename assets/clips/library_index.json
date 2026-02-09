@@ -1,0 +1,6 @@
+{
+  "clips": [],
+  "total_generated": 0,
+  "total_reused": 0,
+  "notes": "This index tracks all generated clips for reuse across videos. Each clip entry should include: clip_id, mood, keywords, file_path, date_generated, times_reused."
+}

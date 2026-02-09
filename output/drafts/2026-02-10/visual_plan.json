@@ -1,0 +1,480 @@
+{
+  "date": "2026-02-10",
+  "total_new_clips_needed": 34,
+  "total_reused_clips": 0,
+  "estimated_credits": 340,
+  "videos": [
+    {
+      "slot": 1,
+      "series": "Morning Stoic",
+      "mood": "classical",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Sunrise over mountain range. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_01_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "golden hour light on marble column. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_01_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "slow dolly toward Roman statue face. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_01_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 2,
+      "series": "Marcus Aurelius Said...",
+      "mood": "classical",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Dramatic marble bust of Marcus Aurelius. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_02_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "Roman forum ruins. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_02_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "dust particles in golden light. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_02_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 3,
+      "series": "Stoic Thought of the Day",
+      "mood": "text-bg",
+      "new_clips": 2,
+      "reused_clips": 0,
+      "total_clips": 2,
+      "clips": [
+        {
+          "prompt": "TEXT-HEAVY FORMAT: Large quote text over slow-panning textured dark background. Camera: very slow push-in or static, minimal movement. Lighting: soft, even, non-distracting. Style: abstract, textured, bokeh background, 4K. Color: dark and moody OR clean minimal, suited for text overlay. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "text-bg",
+          "duration": 12,
+          "camera_move": "very slow push-in or static",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_03_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "ink dissolving in water effect. Camera: very slow push-in or static, minimal movement. Lighting: soft, even, non-distracting. Style: abstract, textured, bokeh background, 4K. Color: dark and moody OR clean minimal, suited for text overlay. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "text-bg",
+          "duration": 12,
+          "camera_move": "very slow push-in or static",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_03_clip2",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 20
+    },
+    {
+      "slot": 4,
+      "series": "Wake Up, Warrior",
+      "mood": "dramatic",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Stormy skies. Camera: crash zoom, low angle tracking shot. Lighting: dramatic side lighting, high contrast. Style: cinematic, 4K, anamorphic lens flare, moody. Color: deep shadows, cool highlights, teal and orange. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dramatic",
+          "duration": 12,
+          "camera_move": "crash zoom",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_04_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "lightning over ancient battlefield. Camera: crash zoom, low angle tracking shot. Lighting: dramatic side lighting, high contrast. Style: cinematic, 4K, anamorphic lens flare, moody. Color: deep shadows, cool highlights, teal and orange. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dramatic",
+          "duration": 12,
+          "camera_move": "crash zoom",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_04_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "warrior silhouette. Camera: crash zoom, low angle tracking shot. Lighting: dramatic side lighting, high contrast. Style: cinematic, 4K, anamorphic lens flare, moody. Color: deep shadows, cool highlights, teal and orange. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dramatic",
+          "duration": 12,
+          "camera_move": "crash zoom",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_04_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 5,
+      "series": "Stoic Response To...",
+      "mood": "modern",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Modern person stressed at desk. Camera: gimbal tracking, over-shoulder, rack focus. Lighting: natural indoor, window light, soft overhead. Style: cinematic, 4K, clean and contemporary. Color: neutral, clean whites, subtle color grade. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "modern",
+          "duration": 12,
+          "camera_move": "gimbal tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_05_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "transition to serene ancient library. Camera: gimbal tracking, over-shoulder, rack focus. Lighting: natural indoor, window light, soft overhead. Style: cinematic, 4K, clean and contemporary. Color: neutral, clean whites, subtle color grade. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "modern",
+          "duration": 12,
+          "camera_move": "gimbal tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_05_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "split-screen modern anxiety vs. ancient calm. Camera: gimbal tracking, over-shoulder, rack focus. Lighting: natural indoor, window light, soft overhead. Style: cinematic, 4K, clean and contemporary. Color: neutral, clean whites, subtle color grade. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "modern",
+          "duration": 12,
+          "camera_move": "gimbal tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_05_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 6,
+      "series": "One Quote That Changes Everything",
+      "mood": "dramatic",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Close-up of old hands carving stone. Camera: crash zoom, low angle tracking shot. Lighting: dramatic side lighting, high contrast. Style: cinematic, 4K, anamorphic lens flare, moody. Color: deep shadows, cool highlights, teal and orange. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dramatic",
+          "duration": 12,
+          "camera_move": "crash zoom",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_06_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "forge fire. Camera: crash zoom, low angle tracking shot. Lighting: dramatic side lighting, high contrast. Style: cinematic, 4K, anamorphic lens flare, moody. Color: deep shadows, cool highlights, teal and orange. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dramatic",
+          "duration": 12,
+          "camera_move": "crash zoom",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_06_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "craftsman at work. Camera: crash zoom, low angle tracking shot. Lighting: dramatic side lighting, high contrast. Style: cinematic, 4K, anamorphic lens flare, moody. Color: deep shadows, cool highlights, teal and orange. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dramatic",
+          "duration": 12,
+          "camera_move": "crash zoom",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_06_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 7,
+      "series": "Seneca's Letters",
+      "mood": "classical",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Parchment scrolling with handwritten text. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_07_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "candlelit study. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_07_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "hourglass with sand falling. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_07_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 8,
+      "series": "Ancient Wisdom in 60 Seconds",
+      "mood": "serene",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Buddhist temple at dawn. Camera: slow dolly forward, crane up reveal. Lighting: golden hour, soft diffused natural light. Style: cinematic, 4K, shallow depth of field, film grain. Color: warm golden tones, soft shadows. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "serene",
+          "duration": 12,
+          "camera_move": "slow dolly forward",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_08_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "neural network animation. Camera: slow dolly forward, crane up reveal. Lighting: golden hour, soft diffused natural light. Style: cinematic, 4K, shallow depth of field, film grain. Color: warm golden tones, soft shadows. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "serene",
+          "duration": 12,
+          "camera_move": "slow dolly forward",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_08_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "brain scan imagery. Camera: slow dolly forward, crane up reveal. Lighting: golden hour, soft diffused natural light. Style: cinematic, 4K, shallow depth of field, film grain. Color: warm golden tones, soft shadows. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "serene",
+          "duration": 12,
+          "camera_move": "slow dolly forward",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_08_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 9,
+      "series": "Stoic vs. Modern",
+      "mood": "classical",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Split screen: person scrolling phone vs. Roman emperor writing by candlelight. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_09_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "phone screen reflections. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_09_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "transition to open landscape. Camera: slow orbit, push-in, steady crane. Lighting: museum lighting, directional warm light on marble. Style: cinematic, 4K, shallow DOF, film grain, renaissance painting quality. Color: muted earth tones, warm highlights on stone. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "classical",
+          "duration": 12,
+          "camera_move": "slow orbit",
+          "model_recommendation": "DOP Standard",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_09_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 10,
+      "series": "Before You Sleep",
+      "mood": "dark-moody",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Night sky with stars. Camera: slow tracking, handheld drift, static wide. Lighting: candlelight, single source, heavy shadows. Style: cinematic, 4K, noir aesthetic, atmospheric haze. Color: desaturated, deep blacks, amber highlights. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dark-moody",
+          "duration": 12,
+          "camera_move": "slow tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_10_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "moonlight on still water. Camera: slow tracking, handheld drift, static wide. Lighting: candlelight, single source, heavy shadows. Style: cinematic, 4K, noir aesthetic, atmospheric haze. Color: desaturated, deep blacks, amber highlights. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dark-moody",
+          "duration": 12,
+          "camera_move": "slow tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_10_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "candle slowly flickering. Camera: slow tracking, handheld drift, static wide. Lighting: candlelight, single source, heavy shadows. Style: cinematic, 4K, noir aesthetic, atmospheric haze. Color: desaturated, deep blacks, amber highlights. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dark-moody",
+          "duration": 12,
+          "camera_move": "slow tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_10_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 11,
+      "series": "The Obstacle Is The Way",
+      "mood": "modern",
+      "new_clips": 3,
+      "reused_clips": 0,
+      "total_clips": 3,
+      "clips": [
+        {
+          "prompt": "Empty office desk. Camera: gimbal tracking, over-shoulder, rack focus. Lighting: natural indoor, window light, soft overhead. Style: cinematic, 4K, clean and contemporary. Color: neutral, clean whites, subtle color grade. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "modern",
+          "duration": 12,
+          "camera_move": "gimbal tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_11_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "transition to phoenix rising imagery. Camera: gimbal tracking, over-shoulder, rack focus. Lighting: natural indoor, window light, soft overhead. Style: cinematic, 4K, clean and contemporary. Color: neutral, clean whites, subtle color grade. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "modern",
+          "duration": 12,
+          "camera_move": "gimbal tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_11_clip2",
+          "is_new": true
+        },
+        {
+          "prompt": "sunrise breaking through dark clouds. Camera: gimbal tracking, over-shoulder, rack focus. Lighting: natural indoor, window light, soft overhead. Style: cinematic, 4K, clean and contemporary. Color: neutral, clean whites, subtle color grade. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "modern",
+          "duration": 12,
+          "camera_move": "gimbal tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_11_clip3",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 30
+    },
+    {
+      "slot": 12,
+      "series": "Silent Stoic",
+      "mood": "dark-moody",
+      "new_clips": 2,
+      "reused_clips": 0,
+      "total_clips": 2,
+      "clips": [
+        {
+          "prompt": "SILENT FORMAT: No voiceover. Slow cinematic montage -- rain on marble. Camera: slow tracking, handheld drift, static wide. Lighting: candlelight, single source, heavy shadows. Style: cinematic, 4K, noir aesthetic, atmospheric haze. Color: desaturated, deep blacks, amber highlights. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dark-moody",
+          "duration": 12,
+          "camera_move": "slow tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_12_clip1",
+          "is_new": true
+        },
+        {
+          "prompt": "candlelit hallway. Camera: slow tracking, handheld drift, static wide. Lighting: candlelight, single source, heavy shadows. Style: cinematic, 4K, noir aesthetic, atmospheric haze. Color: desaturated, deep blacks, amber highlights. No text, no UI elements, no watermarks. Photorealistic cinematic footage.",
+          "mood": "dark-moody",
+          "duration": 12,
+          "camera_move": "slow tracking",
+          "model_recommendation": "DOP Lite",
+          "estimated_credits": 10,
+          "clip_id": "2026-02-10_12_clip2",
+          "is_new": true
+        }
+      ],
+      "estimated_credits": 20
+    }
+  ]
+}

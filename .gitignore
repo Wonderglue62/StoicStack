@@ -1,0 +1,29 @@
+# Secrets -- NEVER commit these
+.env
+*.env
+secrets/
+
+# Generated content (large files)
+output/finals/
+assets/clips/2*/
+assets/audio/2*/
+
+# Keep structure but not bulk media
+!assets/clips/library_index.json
+!output/finals/.gitkeep
+!output/drafts/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs (optional -- uncomment to track)
+# logs/
